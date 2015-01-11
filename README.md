@@ -14,7 +14,7 @@ Greetings! I've uploaded my completed code & image files in this Repo. They are 
 
 ### Plot 3
 
-![plot of chunk unnamed-chunk-4](Plot2.png) 
+![plot of chunk unnamed-chunk-4](Plot3.png) 
 
 
 ### Plot 4
