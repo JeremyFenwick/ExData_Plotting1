@@ -21,6 +21,6 @@ par(mfrow = c(1,1))
 hist(subpowerdata$Global_active_power, main = "Global Active Power", col="red", xlab = 
        "Global Active Power (kilowatts)")
        
-## Export a PNG
+## Export the PNG file
 dev.copy(png, file="Plot1.png")
 dev.off()
